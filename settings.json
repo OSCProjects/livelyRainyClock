@@ -1,0 +1,12 @@
+{
+    "brightness": {
+        "Minimum Brightness": 20,
+        "Maximum Brightness": 100
+    },
+    "Livelycu.exe path": "Livelycu.exe",
+    "Brightness property": "brightness",
+    "Location": {
+        "Latitude": 48.148598,
+        "Longitude": 17.107748
+    }
+}
